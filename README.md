@@ -4,8 +4,10 @@
 </p>
 Repositorio del código implementado en el desarrollo del proyecto integrador
 Integrantes:
+
 - Jesu Amoretti
 - Cesar Lujan
 - Fabrizio Romero
 - Frank Tapia
+
 Gracias.
