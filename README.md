@@ -5,9 +5,9 @@
 Repositorio del código implementado en el desarrollo del proyecto integrador
 Integrantes:
 
-- Lucía Alfaro
 - Jesu Amoretti
-- Diego Morales
-- Diana Villalva
+- Cesar Lujan
+- Fabrizio Romero
+- Frank Tapia
 
 Gracias.
